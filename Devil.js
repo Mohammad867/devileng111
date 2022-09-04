@@ -1,4 +1,4 @@
-const {discord,client,richembad;atthhment} = require ("discord.js")
+```const {discord,client,richembad;atthhment} = require ("discord.js")
 
 const client  = new client ({disableEverony:true});
 
@@ -8,7 +8,7 @@ console.log (logged in as $)
 
 {client.user.username}!')
 
-client.user.seractivity(Devil;)[type]:palaying{()}
+client.user.seractivity(shell;)[type]:palaying{()}
 (lera shtik bnusa bo zher botakka)
 
 client.on ("gliudmemebradd,member = > {")
@@ -46,7 +46,7 @@ const command = args.shift().tolowercase();
 
 if(!massage.content.startswitch(prefix)massage.author.bot) return;
 
-if (command=="Devil")] 
+if (command=="shell")] 
 
 client .emit (gulidmemberadd;massage.membar)
 
@@ -60,4 +60,5 @@ client.login("")
 
 
 
-/// ba hiway swd 
+///by shell // dastkari code maka //// code welcome sada
+/// ba hiway swd ```
